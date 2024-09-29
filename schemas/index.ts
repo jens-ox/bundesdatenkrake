@@ -2,6 +2,7 @@ import { bafinSchema } from './bafin'
 import { bfgSchema } from './bfg'
 import { LadesaeulenSchema } from './bna'
 import { DestatisSchema } from './destatis'
+import { GbfsLightSchema } from './gbfs-light'
 import { krankenkassenSchema } from './gkv'
 import { RadabstellanlagenSchema } from './radparken'
 import { RigolettoSchema } from './uba'
@@ -13,5 +14,6 @@ export const schemas = {
   'bna-ladesaeulen': LadesaeulenSchema,
   'uba-rigoletto': RigolettoSchema,
   'gkv-krankenkassen': krankenkassenSchema,
-  radabstellanlagen: RadabstellanlagenSchema
+  radabstellanlagen: RadabstellanlagenSchema,
+  'gbfs-light': GbfsLightSchema
 }
