@@ -70,38 +70,6 @@
     }
   },
   {
-    "veroeffentlichung": "2002-04-16",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 7.3
-    }
-  },
-  {
-    "veroeffentlichung": "2015-03-03",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "A.S. Création Tapetenstiftung",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 35.27
-    }
-  },
-  {
     "veroeffentlichung": "2002-06-25",
     "emittent": {
       "name": "Webac Holding Aktiengesellschaft",
@@ -682,7 +650,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-23",
+    "veroeffentlichung": "2026-08-31",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -692,9 +660,9 @@
       "name": "Alexander, Gregory"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.07,
+      "gesamt": 4.95,
       "instrumente": 0,
-      "summe": 5.07
+      "summe": 4.95
     }
   },
   {
@@ -856,24 +824,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-15",
-    "emittent": {
-      "name": "JOST Werke SE",
-      "sitz": "Neu-Isenburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Allianz Global Investors GmbH",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.93,
-      "instrumente": 0,
-      "summe": 4.93
-    }
-  },
-  {
     "veroeffentlichung": "2026-04-15",
     "emittent": {
       "name": "Hypoport SE",
@@ -962,6 +912,42 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-20",
+    "emittent": {
+      "name": "q.beyond AG",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Alpha Entrepreneurial Partners Investment-AG TGV",
+      "sitz": "Pöcking",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0,
+      "summe": 3.03
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-18",
+    "emittent": {
+      "name": "Masterflex SE",
+      "sitz": "Gelsenkirchen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Alpha Entrepreneurial Partners Investment-AG TGV",
+      "sitz": "Pöcking",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 7.05,
+      "instrumente": 0,
+      "summe": 7.05
+    }
+  },
+  {
     "veroeffentlichung": "2024-11-19",
     "emittent": {
       "name": "Altech Advanced Materials AG",
@@ -977,6 +963,42 @@
       "gesamt": 9.68,
       "instrumente": 0,
       "summe": 9.68
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-13",
+    "emittent": {
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "AMERICAN CENTURY ETF TRUST",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.00191,
+      "instrumente": 0,
+      "summe": 3.00191
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-14",
+    "emittent": {
+      "name": "LANXESS Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "AMERICAN CENTURY ETF TRUST",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.55,
+      "instrumente": 0,
+      "summe": 3.55
     }
   },
   {
@@ -1034,7 +1056,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-21",
+    "veroeffentlichung": "2026-07-27",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -1046,9 +1068,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.54,
-      "instrumente": 0.15,
-      "summe": 4.69
+      "gesamt": 4.6,
+      "instrumente": 0.22,
+      "summe": 4.82
     }
   },
   {
@@ -1088,7 +1110,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-08",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
       "name": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München",
       "sitz": "München",
@@ -1100,9 +1122,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.14,
-      "instrumente": 0.02,
-      "summe": 3.16
+      "gesamt": 3.03,
+      "instrumente": 0.04,
+      "summe": 3.06
     }
   },
   {
@@ -1121,6 +1143,24 @@
       "gesamt": 3.09,
       "instrumente": 0.02,
       "summe": 3.11
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-10",
+    "emittent": {
+      "name": "LEG Immobilien SE",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Amundi S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.75,
+      "instrumente": 0,
+      "summe": 4.75
     }
   },
   {
@@ -1160,10 +1200,10 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-07-31",
     "emittent": {
-      "name": "Deutsche Börse Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
+      "name": "flatexDEGIRO SE",
+      "sitz": "Frankfurt",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -1172,9 +1212,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.01,
-      "summe": 3.03
+      "gesamt": 3.49,
+      "instrumente": 0,
+      "summe": 3.49
     }
   },
   {
@@ -1518,7 +1558,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-08-25",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -1528,9 +1568,9 @@
       "name": "Ashley, Michael"
     },
     "stimmrechtsanteile": {
-      "gesamt": 30.28,
-      "instrumente": 30.36,
-      "summe": 60.64
+      "gesamt": 47.89,
+      "instrumente": 29.72,
+      "summe": 77.61
     }
   },
   {
@@ -1542,7 +1582,7 @@
     },
     "meldepflichtiger": {
       "name": "Assicurazioni Generali S.p.A.",
-      "sitz": "Triest",
+      "sitz": "TRIEST",
       "land": "Italien"
     },
     "stimmrechtsanteile": {
@@ -1882,24 +1922,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-01-09",
-    "emittent": {
-      "name": "Vulcan Energy Resources Limited",
-      "sitz": "Perth",
-      "land": "Australien"
-    },
-    "meldepflichtiger": {
-      "name": "AXA Investment Managers UK Ltd.",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.88,
-      "instrumente": 0,
-      "summe": 3.88
-    }
-  },
-  {
     "veroeffentlichung": "2026-01-06",
     "emittent": {
       "name": "q.beyond AG",
@@ -2044,7 +2066,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-08-19",
+    "veroeffentlichung": "2026-07-23",
     "emittent": {
       "name": "Delticom AG",
       "sitz": "Hannover",
@@ -2056,9 +2078,9 @@
       "land": "Luxemburg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.07,
+      "gesamt": 4.92,
       "instrumente": 0,
-      "summe": 5.07
+      "summe": 4.92
     }
   },
   {
@@ -2274,7 +2296,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Scout24 SE",
       "sitz": "München",
@@ -2286,13 +2308,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.13,
-      "instrumente": 5.75,
-      "summe": 5.87
+      "gesamt": 0.34,
+      "instrumente": 6.79,
+      "summe": 7.13
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-08-03",
     "emittent": {
       "name": "NORMA Group SE",
       "sitz": "Maintal",
@@ -2304,13 +2326,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.29,
-      "summe": 3.35
+      "gesamt": 6.16,
+      "instrumente": 1.54,
+      "summe": 7.7
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -2322,49 +2344,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.02,
-      "instrumente": 4.73,
-      "summe": 5.74
+      "gesamt": 1.6,
+      "instrumente": 7.09,
+      "summe": 8.69
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
-    "emittent": {
-      "name": "K+S Aktiengesellschaft",
-      "sitz": "Kassel",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.54,
-      "instrumente": 4.06,
-      "summe": 5.6
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-09",
-    "emittent": {
-      "name": "Hypoport SE",
-      "sitz": "Lübeck",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.28,
-      "instrumente": 4.99906,
-      "summe": 5.28
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-08",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -2376,45 +2362,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.62,
-      "instrumente": 8.63,
-      "summe": 14.25
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-17",
-    "emittent": {
-      "name": "HelloFresh SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.69,
-      "instrumente": 4.51,
-      "summe": 5.21
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-20",
-    "emittent": {
-      "name": "Gerresheimer AG",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bank of America Corporation",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.97,
-      "instrumente": 3.17,
-      "summe": 5.14
+      "gesamt": 0.41,
+      "instrumente": 8.21,
+      "summe": 8.61
     }
   },
   {
@@ -2436,6 +2386,42 @@
     }
   },
   {
+    "veroeffentlichung": "2026-09-11",
+    "emittent": {
+      "name": "Delivery Hero SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.31,
+      "instrumente": 2.81,
+      "summe": 5.13
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-12",
+    "emittent": {
+      "name": "AUTO1 Group SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bank of America Corporation",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 1.26,
+      "instrumente": 3.74,
+      "summe": 5.00372
+    }
+  },
+  {
     "veroeffentlichung": "2025-08-21",
     "emittent": {
       "name": "AUTO1 Group SE",
@@ -2449,22 +2435,6 @@
       "gesamt": 9.96,
       "instrumente": 0,
       "summe": 9.96
-    }
-  },
-  {
-    "veroeffentlichung": "2021-11-16",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Baran, Jakub"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.21,
-      "instrumente": 0,
-      "summe": 3.21
     }
   },
   {
@@ -2708,6 +2678,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-22",
+    "emittent": {
+      "name": "Bayerische Motoren Werke Aktiengesellschaft",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bayerische Motoren Werke Aktiengesellschaft",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.023,
+      "instrumente": 0,
+      "summe": 3.023
+    }
+  },
+  {
     "veroeffentlichung": "2002-04-16",
     "emittent": {
       "name": "BayWa Aktiengesellschaft",
@@ -2932,7 +2920,7 @@
   {
     "veroeffentlichung": "2020-01-02",
     "emittent": {
-      "name": "iQ International AG in Liquidation",
+      "name": "iQ International AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -3188,7 +3176,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "SMA Solar Technology AG",
       "sitz": "Niestetal",
@@ -3200,9 +3188,9 @@
       "land": "Dänemark"
     },
     "stimmrechtsanteile": {
-      "gesamt": 19.69,
-      "instrumente": 0.31,
-      "summe": 20
+      "gesamt": 10,
+      "instrumente": 0,
+      "summe": 10
     }
   },
   {
@@ -3242,7 +3230,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-11",
     "emittent": {
       "name": "Zalando SE",
       "sitz": "Berlin",
@@ -3254,9 +3242,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.75,
-      "instrumente": 0.78,
-      "summe": 5.53
+      "gesamt": 5.09,
+      "instrumente": 0.24,
+      "summe": 5.33
     }
   },
   {
@@ -3350,7 +3338,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-29",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "Symrise AG",
       "sitz": "Holzminden",
@@ -3362,9 +3350,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.08,
-      "instrumente": 0.45,
-      "summe": 8.54
+      "gesamt": 8.29,
+      "instrumente": 0.41,
+      "summe": 8.7
     }
   },
   {
@@ -3422,7 +3410,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-29",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Scout24 SE",
       "sitz": "München",
@@ -3434,13 +3422,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.83,
-      "instrumente": 0.37,
-      "summe": 7.2
+      "gesamt": 3.98,
+      "instrumente": 0.31,
+      "summe": 4.29
     }
   },
   {
-    "veroeffentlichung": "2026-06-03",
+    "veroeffentlichung": "2026-08-14",
     "emittent": {
       "name": "SAP SE",
       "sitz": "Walldorf",
@@ -3452,8 +3440,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.66,
-      "instrumente": 0.09,
+      "gesamt": 6.69,
+      "instrumente": 0.06,
       "summe": 6.75
     }
   },
@@ -3530,7 +3518,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Nemetschek SE",
       "sitz": "München",
@@ -3542,9 +3530,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.93,
-      "instrumente": 0.55,
-      "summe": 5.47
+      "gesamt": 4.56,
+      "instrumente": 0.42,
+      "summe": 4.98
     }
   },
   {
@@ -3566,7 +3554,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -3578,13 +3566,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.59,
-      "instrumente": 0.53,
-      "summe": 11.11
+      "gesamt": 9.88,
+      "instrumente": 0.34,
+      "summe": 10.23
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-08-20",
     "emittent": {
       "name": "MERCK Kommanditgesellschaft auf Aktien",
       "sitz": "Darmstadt",
@@ -3596,13 +3584,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.63,
-      "instrumente": 0.54,
-      "summe": 8.16
+      "gesamt": 7.75,
+      "instrumente": 0.47,
+      "summe": 8.22
     }
   },
   {
-    "veroeffentlichung": "2026-03-31",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -3614,13 +3602,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.68,
-      "instrumente": 0.43,
-      "summe": 6.11
+      "gesamt": 5.84,
+      "instrumente": 0.16,
+      "summe": 5.998
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-08-26",
     "emittent": {
       "name": "LEG Immobilien SE",
       "sitz": "Düsseldorf",
@@ -3632,13 +3620,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.75,
-      "instrumente": 1.04,
-      "summe": 8.79
+      "gesamt": 8.39,
+      "instrumente": 2.37,
+      "summe": 10.75
     }
   },
   {
-    "veroeffentlichung": "2026-05-26",
+    "veroeffentlichung": "2026-08-17",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -3650,9 +3638,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.84,
-      "instrumente": 0.38,
-      "summe": 4.21
+      "gesamt": 3.69,
+      "instrumente": 1.32,
+      "summe": 5.005
     }
   },
   {
@@ -3674,7 +3662,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -3687,8 +3675,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 3.05,
-      "instrumente": 2.53,
-      "summe": 5.58
+      "instrumente": 2.42,
+      "summe": 5.47
     }
   },
   {
@@ -3728,25 +3716,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
-    "emittent": {
-      "name": "HENSOLDT AG",
-      "sitz": "Taufkirchen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.13,
-      "instrumente": 1.86,
-      "summe": 4.99
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-09-07",
     "emittent": {
       "name": "Heidelberg Materials AG",
       "sitz": "Heidelberg",
@@ -3758,9 +3728,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.11,
-      "instrumente": 0.09,
-      "summe": 5.2
+      "gesamt": 5.16,
+      "instrumente": 0.06,
+      "summe": 5.22
     }
   },
   {
@@ -3782,7 +3752,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-04-27",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -3794,9 +3764,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.47,
-      "instrumente": 0.31,
-      "summe": 8.78
+      "gesamt": 8.5,
+      "instrumente": 0.56,
+      "summe": 9.06
     }
   },
   {
@@ -3818,7 +3788,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-02",
+    "veroeffentlichung": "2026-09-07",
     "emittent": {
       "name": "Fresenius Medical Care AG",
       "sitz": "Hof",
@@ -3830,9 +3800,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.58,
-      "instrumente": 2.42,
-      "summe": 7.004
+      "gesamt": 4.92,
+      "instrumente": 1.6,
+      "summe": 6.52
     }
   },
   {
@@ -3890,7 +3860,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-26",
+    "veroeffentlichung": "2026-08-07",
     "emittent": {
       "name": "Evonik Industries AG",
       "sitz": "Essen",
@@ -3902,9 +3872,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.35,
-      "instrumente": 1.34,
-      "summe": 4.68
+      "gesamt": 3.79,
+      "instrumente": 1.32,
+      "summe": 5.11
     }
   },
   {
@@ -3926,6 +3896,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-09-01",
+    "emittent": {
+      "name": "DHL AG",
+      "sitz": "Bonn",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 6.74,
+      "instrumente": 0.54,
+      "summe": 7.28
+    }
+  },
+  {
     "veroeffentlichung": "2025-07-03",
     "emittent": {
       "name": "Deutsche Telekom AG",
@@ -3941,24 +3929,6 @@
       "gesamt": 5.56,
       "instrumente": 0.08,
       "summe": 5.64
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-17",
-    "emittent": {
-      "name": "Deutsche Post AG",
-      "sitz": "Bonn",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 6.65,
-      "instrumente": 0.54,
-      "summe": 7.19
     }
   },
   {
@@ -3980,7 +3950,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-29",
+    "veroeffentlichung": "2026-08-19",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
       "sitz": "Frankfurt am Main",
@@ -3992,9 +3962,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.53,
-      "instrumente": 0.34,
-      "summe": 7.87
+      "gesamt": 7.69,
+      "instrumente": 0.26,
+      "summe": 7.94
     }
   },
   {
@@ -4036,24 +4006,6 @@
   {
     "veroeffentlichung": "2026-05-26",
     "emittent": {
-      "name": "CTS Eventim AG & Co. KGaA",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "BlackRock, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.83,
-      "instrumente": 0.95,
-      "summe": 4.78
-    }
-  },
-  {
-    "veroeffentlichung": "2026-05-26",
-    "emittent": {
       "name": "Continental Aktiengesellschaft",
       "sitz": "Hannover",
       "land": "Deutschland"
@@ -4070,7 +4022,25 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-13",
+    "veroeffentlichung": "2026-09-09",
+    "emittent": {
+      "name": "COMMERZBANK Aktiengesellschaft",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BlackRock, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.46,
+      "instrumente": 1.02,
+      "summe": 4.49
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-28",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -4082,8 +4052,8 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.14,
-      "instrumente": 0.12,
+      "gesamt": 4.98,
+      "instrumente": 0.28,
       "summe": 5.26
     }
   },
@@ -4178,7 +4148,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-04-21",
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -4190,13 +4160,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.31,
-      "instrumente": 1.11,
-      "summe": 7.42
+      "gesamt": 4.62,
+      "instrumente": 0.96,
+      "summe": 5.58
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -4208,13 +4178,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.28,
-      "instrumente": 4.04,
-      "summe": 10.32
+      "gesamt": 7.66,
+      "instrumente": 3.19,
+      "summe": 10.85
     }
   },
   {
-    "veroeffentlichung": "2026-03-30",
+    "veroeffentlichung": "2026-08-28",
     "emittent": {
       "name": "adidas AG",
       "sitz": "Herzogenaurach",
@@ -4226,9 +4196,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.18,
-      "instrumente": 0.35,
-      "summe": 7.54
+      "gesamt": 6.66,
+      "instrumente": 0.04,
+      "summe": 6.7
     }
   },
   {
@@ -4334,7 +4304,25 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-18",
+    "veroeffentlichung": "2026-08-04",
+    "emittent": {
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "BNP PARIBAS ASSET MANAGEMENT Europe",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.25,
+      "instrumente": 0,
+      "summe": 3.25
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "flatexDEGIRO SE",
       "sitz": "Frankfurt",
@@ -4346,27 +4334,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.99,
+      "gesamt": 5.07,
       "instrumente": 0,
-      "summe": 4.99
-    }
-  },
-  {
-    "veroeffentlichung": "2025-07-30",
-    "emittent": {
-      "name": "Vulcan Energy Resources Limited",
-      "sitz": "Perth",
-      "land": "Australien"
-    },
-    "meldepflichtiger": {
-      "name": "BNP Paribas Asset Management Luxembourg",
-      "sitz": "Luxembourg",
-      "land": "Luxemburg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.37,
-      "instrumente": 0,
-      "summe": 3.37
+      "summe": 5.07
     }
   },
   {
@@ -4388,25 +4358,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-07-30",
-    "emittent": {
-      "name": "Vulcan Energy Resources Limited",
-      "sitz": "Perth",
-      "land": "Australien"
-    },
-    "meldepflichtiger": {
-      "name": "BNP Paribas Funds",
-      "sitz": "Luxembourg",
-      "land": "Luxemburg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.37,
-      "instrumente": 0,
-      "summe": 3.37
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-29",
+    "veroeffentlichung": "2026-09-02",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -4418,9 +4370,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.00328,
+      "gesamt": 3.06,
       "instrumente": 0,
-      "summe": 3.00328
+      "summe": 3.06
     }
   },
   {
@@ -4488,19 +4440,21 @@
     }
   },
   {
-    "veroeffentlichung": "2015-05-26",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "EUWAX Aktiengesellschaft",
       "sitz": "Stuttgart",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Boerse Stuttgart GmbH",
+      "name": "Boerse Stuttgart Group Stiftung",
       "sitz": "Stuttgart",
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 84.07
+      "gesamt": 84.15,
+      "instrumente": 0,
+      "summe": 84.15
     }
   },
   {
@@ -4696,24 +4650,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-27",
-    "emittent": {
-      "name": "Zalando SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Boston Partners Global Investors, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.35,
-      "instrumente": 0,
-      "summe": 3.35
-    }
-  },
-  {
     "veroeffentlichung": "2018-12-11",
     "emittent": {
       "name": "elumeo SE",
@@ -4780,24 +4716,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-12-28",
-    "emittent": {
-      "name": "Brockhaus Technologies AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Brockhaus Technologies AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.57,
-      "instrumente": 0,
-      "summe": 4.57
-    }
-  },
-  {
     "veroeffentlichung": "2020-07-22",
     "emittent": {
       "name": "Brockhaus Technologies AG",
@@ -4811,6 +4729,24 @@
       "gesamt": 22.36,
       "instrumente": 0,
       "summe": 22.36
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-05",
+    "emittent": {
+      "name": "Deutsche EuroShop AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Brookfield Corporation",
+      "sitz": "Toronto",
+      "land": "Kanada"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 77.2,
+      "instrumente": 0,
+      "summe": 77.2
     }
   },
   {
@@ -4902,6 +4838,24 @@
     }
   },
   {
+    "veroeffentlichung": "2024-02-07",
+    "emittent": {
+      "name": "DHL AG",
+      "sitz": "Bonn",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Bundesrepublik Deutschland",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 16.84,
+      "instrumente": 0,
+      "summe": 16.84
+    }
+  },
+  {
     "veroeffentlichung": "2024-06-05",
     "emittent": {
       "name": "Deutsche Telekom AG",
@@ -4917,24 +4871,6 @@
       "gesamt": 28.18,
       "instrumente": 0,
       "summe": 28.18
-    }
-  },
-  {
-    "veroeffentlichung": "2024-02-07",
-    "emittent": {
-      "name": "Deutsche Post AG",
-      "sitz": "Bonn",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Bundesrepublik Deutschland",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 16.84,
-      "instrumente": 0,
-      "summe": 16.84
     }
   },
   {
@@ -5388,24 +5324,6 @@
     }
   },
   {
-    "veroeffentlichung": "2025-12-18",
-    "emittent": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.71,
-      "instrumente": 0,
-      "summe": 3.71
-    }
-  },
-  {
     "veroeffentlichung": "2006-02-16",
     "emittent": {
       "name": "Carl Zeiss Meditec AG",
@@ -5571,6 +5489,24 @@
       "gesamt": 4.88,
       "instrumente": 0,
       "summe": 4.88
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-06",
+    "emittent": {
+      "name": "HELIOS SOLAR AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "CCC Capital Management Pte. Ltd.",
+      "sitz": "Singapore",
+      "land": "Republik Singapur"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 13.16,
+      "instrumente": 0,
+      "summe": 13.16
     }
   },
   {
@@ -5740,6 +5676,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-26",
+    "emittent": {
+      "name": "Vulcan Energy Resources Limited",
+      "sitz": "Perth",
+      "land": "Australien"
+    },
+    "meldepflichtiger": {
+      "name": "Citigroup Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.46,
+      "instrumente": 0.73,
+      "summe": 4.19
+    }
+  },
+  {
     "veroeffentlichung": "2026-05-20",
     "emittent": {
       "name": "COMMERZBANK Aktiengesellschaft",
@@ -5842,6 +5796,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-12",
+    "emittent": {
+      "name": "TAG Immobilien AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Cohen & Steers, Inc.",
+      "sitz": "New York",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.16,
+      "instrumente": 0,
+      "summe": 3.16
+    }
+  },
+  {
     "veroeffentlichung": "2007-07-23",
     "emittent": {
       "name": "CTS Eventim AG & Co. KGaA",
@@ -5855,24 +5827,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 3.23
-    }
-  },
-  {
-    "veroeffentlichung": "2026-02-18",
-    "emittent": {
-      "name": "COMMERZBANK Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "COMMERZBANK Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.08,
-      "instrumente": 0,
-      "summe": 3.08
     }
   },
   {
@@ -6108,24 +6062,6 @@
     }
   },
   {
-    "veroeffentlichung": "2022-07-29",
-    "emittent": {
-      "name": "Manz AG",
-      "sitz": "Reutlingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Daimler Truck Holding AG",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.08,
-      "instrumente": 0,
-      "summe": 9.08
-    }
-  },
-  {
     "veroeffentlichung": "2023-04-03",
     "emittent": {
       "name": "DEUTZ Aktiengesellschaft",
@@ -6141,22 +6077,6 @@
       "gesamt": 4.19,
       "instrumente": 0,
       "summe": 4.19
-    }
-  },
-  {
-    "veroeffentlichung": "2014-06-04",
-    "emittent": {
-      "name": "SMA Solar Technology AG",
-      "sitz": "Niestetal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Danfoss A/S",
-      "sitz": "Nordborg",
-      "land": "Dänemark"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 20
     }
   },
   {
@@ -6448,7 +6368,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-08-12",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -6459,12 +6379,12 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0,
-      "instrumente": 28.83,
-      "summe": 28.83
+      "instrumente": 23.06,
+      "summe": 23.06
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-08-12",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -6475,8 +6395,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 0,
-      "instrumente": 28.83,
-      "summe": 28.83
+      "instrumente": 23.06,
+      "summe": 23.06
     }
   },
   {
@@ -6568,12 +6488,12 @@
   {
     "veroeffentlichung": "2026-03-09",
     "emittent": {
-      "name": "Deutsche Post AG",
+      "name": "DHL AG",
       "sitz": "Bonn",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
-      "name": "Deutsche Post AG",
+      "name": "DHL AG",
       "sitz": "Bonn",
       "land": "Deutschland"
     },
@@ -6955,22 +6875,6 @@
       "gesamt": 3.06,
       "instrumente": 0.06,
       "summe": 3.12
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-19",
-    "emittent": {
-      "name": "Ludwig Beck am Rathauseck - Textilhaus Feldmeier Aktiengesellschaft",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Doblinger, Alfons"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 80.17,
-      "instrumente": 0,
-      "summe": 80.17
     }
   },
   {
@@ -7424,7 +7328,7 @@
   {
     "veroeffentlichung": "2020-01-03",
     "emittent": {
-      "name": "iQ International AG in Liquidation",
+      "name": "iQ International AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -7456,7 +7360,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-19",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Pfeiffer Vacuum Technology AG",
       "sitz": "Aßlar",
@@ -7466,31 +7370,47 @@
       "name": "Durham, Ben"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.07,
+      "gesamt": 5.0007,
       "instrumente": 0,
-      "summe": 3.07
+      "summe": 5.0007
     }
   },
   {
-    "veroeffentlichung": "2026-06-08",
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
+      "name": "All for One Group SE",
+      "sitz": "Filderstadt",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
       "name": "Durham, Ben"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.17,
+      "gesamt": 5.05,
       "instrumente": 0,
-      "summe": 3.17
+      "summe": 5.05
     }
   },
   {
-    "veroeffentlichung": "2026-07-13",
+    "veroeffentlichung": "2026-08-14",
     "emittent": {
-      "name": "Siltronic AG",
+      "name": "Adtran Networks SE",
+      "sitz": "Meiningen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Durham, Ben"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.09,
+      "instrumente": 0,
+      "summe": 3.09
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-11",
+    "emittent": {
+      "name": "Nagarro SE",
       "sitz": "München",
       "land": "Deutschland"
     },
@@ -7500,31 +7420,13 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.57,
-      "instrumente": 0.09,
-      "summe": 3.66
+      "gesamt": 4.03,
+      "instrumente": 0,
+      "summe": 4.03
     }
   },
   {
-    "veroeffentlichung": "2026-06-15",
-    "emittent": {
-      "name": "Nordex SE",
-      "sitz": "Rostock",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.08,
-      "instrumente": 0.08,
-      "summe": 3.17
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-16",
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -7536,9 +7438,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.78,
+      "gesamt": 3.35,
       "instrumente": 0,
-      "summe": 4.78
+      "summe": 3.35
     }
   },
   {
@@ -7596,42 +7498,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-12",
-    "emittent": {
-      "name": "flatexDEGIRO SE",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.39,
-      "instrumente": 0,
-      "summe": 3.39
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-17",
-    "emittent": {
-      "name": "Elmos Semiconductor SE",
-      "sitz": "Leverkusen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "DWS Investment GmbH",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.26,
-      "instrumente": 0,
-      "summe": 3.26
-    }
-  },
-  {
     "veroeffentlichung": "2026-02-12",
     "emittent": {
       "name": "E.ON SE",
@@ -7647,20 +7513,6 @@
       "gesamt": 3.01,
       "instrumente": 0,
       "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2013-02-12",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Dzhagaev, Oleg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 15.01
     }
   },
   {
@@ -7710,7 +7562,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-05",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -7720,9 +7572,9 @@
       "name": "Dürschmidt, Carl Georg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 20.58,
-      "instrumente": 5.42,
-      "summe": 26
+      "gesamt": 21.16,
+      "instrumente": 0,
+      "summe": 21.16
     }
   },
   {
@@ -7950,7 +7802,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-07",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Readcrest Capital AG",
       "sitz": "Hamburg",
@@ -7960,9 +7812,9 @@
       "name": "Elgeti, Rolf"
     },
     "stimmrechtsanteile": {
-      "gesamt": 91.19,
+      "gesamt": 78.62,
       "instrumente": 0,
-      "summe": 91.19
+      "summe": 78.62
     }
   },
   {
@@ -8109,22 +7961,6 @@
       "gesamt": 11.39,
       "instrumente": 0,
       "summe": 11.39
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-22",
-    "emittent": {
-      "name": "ADTRAN Holdings, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "meldepflichtiger": {
-      "name": "Englander, Israel"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.07,
-      "instrumente": 0.00231,
-      "summe": 3.07
     }
   },
   {
@@ -8300,7 +8136,7 @@
   {
     "veroeffentlichung": "2020-01-03",
     "emittent": {
-      "name": "iQ International AG in Liquidation",
+      "name": "iQ International AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -8461,24 +8297,6 @@
       "gesamt": 2.19,
       "instrumente": 4.58,
       "summe": 6.77
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-29",
-    "emittent": {
-      "name": "RENK Group AG",
-      "sitz": "Augsburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Fidelity Advisor Series VIII",
-      "sitz": "Boston",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.04,
-      "instrumente": 0.19,
-      "summe": 3.23
     }
   },
   {
@@ -8848,25 +8666,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-09-09",
-    "emittent": {
-      "name": "Symrise AG",
-      "sitz": "Holzminden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Flossbach von Storch SE",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0,
-      "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2023-06-01",
+    "veroeffentlichung": "2026-09-02",
     "emittent": {
       "name": "Brenntag SE",
       "sitz": "Essen",
@@ -8878,9 +8678,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.33,
+      "gesamt": 4.97,
       "instrumente": 0,
-      "summe": 5.33
+      "summe": 4.97
     }
   },
   {
@@ -8954,7 +8754,25 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-22",
+    "veroeffentlichung": "2026-07-30",
+    "emittent": {
+      "name": "WashTec AG",
+      "sitz": "Augsburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "FMR LLC",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.82,
+      "instrumente": 0,
+      "summe": 3.82
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-25",
     "emittent": {
       "name": "TAKKT AG",
       "sitz": "Stuttgart",
@@ -8966,13 +8784,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.25,
+      "gesamt": 5.38,
       "instrumente": 0,
-      "summe": 6.25
+      "summe": 5.38
     }
   },
   {
-    "veroeffentlichung": "2026-05-15",
+    "veroeffentlichung": "2026-08-10",
     "emittent": {
       "name": "Stabilus SE",
       "sitz": "Frankfurt am Main",
@@ -8984,16 +8802,16 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.64,
+      "gesamt": 9.54,
       "instrumente": 0,
-      "summe": 9.64
+      "summe": 9.54
     }
   },
   {
-    "veroeffentlichung": "2026-06-19",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
-      "name": "RENK Group AG",
-      "sitz": "Augsburg",
+      "name": "Rheinmetall Aktiengesellschaft",
+      "sitz": "Düsseldorf",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -9002,9 +8820,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.19,
-      "instrumente": 0.76,
-      "summe": 4.94
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
@@ -9026,7 +8844,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-04-22",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "JOST Werke SE",
       "sitz": "Neu-Isenburg",
@@ -9062,25 +8880,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-26",
-    "emittent": {
-      "name": "InnoTec TSS Aktiengesellschaft",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "FMR LLC",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.98,
-      "instrumente": 0,
-      "summe": 4.98
-    }
-  },
-  {
-    "veroeffentlichung": "2026-01-19",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "Heidelberg Materials AG",
       "sitz": "Heidelberg",
@@ -9092,9 +8892,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.21,
+      "gesamt": 4.65,
       "instrumente": 0,
-      "summe": 4.21
+      "summe": 4.65
     }
   },
   {
@@ -9132,7 +8932,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-03",
+    "veroeffentlichung": "2026-08-03",
     "emittent": {
       "name": "Singulus Technologies Aktiengesellschaft",
       "sitz": "Kahl am Main",
@@ -9144,9 +8944,9 @@
       "land": "Luxemburg"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.84,
+      "gesamt": 5.17,
       "instrumente": 0,
-      "summe": 4.84
+      "summe": 5.17
     }
   },
   {
@@ -9229,22 +9029,6 @@
       "gesamt": 16.7,
       "instrumente": 0,
       "summe": 16.7
-    }
-  },
-  {
-    "veroeffentlichung": "2015-03-03",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Franz Jürgen Schneider-Stiftung",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 35.27
     }
   },
   {
@@ -9341,6 +9125,24 @@
       "name": "Frers, Klaus Dieter"
     },
     "stimmrechtsanteile": {}
+  },
+  {
+    "veroeffentlichung": "2026-09-10",
+    "emittent": {
+      "name": "Fresenius Medical Care AG",
+      "sitz": "Hof",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Fresenius Medical Care AG",
+      "sitz": "Hof",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.0306,
+      "instrumente": 0,
+      "summe": 3.0306
+    }
   },
   {
     "veroeffentlichung": "2017-04-24",
@@ -10328,22 +10130,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 36.35
-    }
-  },
-  {
-    "veroeffentlichung": "2026-03-30",
-    "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Griffin, Kenneth C."
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.00007,
-      "instrumente": 5.98,
-      "summe": 5.98
     }
   },
   {
@@ -11523,22 +11309,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-06-07",
-    "emittent": {
-      "name": "Gateway Real Estate AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Heller, Yannick Patrick"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 13.61,
-      "instrumente": 0,
-      "summe": 13.61
-    }
-  },
-  {
     "veroeffentlichung": "2021-02-18",
     "emittent": {
       "name": "Branicks Group AG",
@@ -11637,70 +11407,6 @@
     }
   },
   {
-    "veroeffentlichung": "2015-09-03",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Henderson Global Group Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
-    "veroeffentlichung": "2015-02-27",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Henderson Global Investors (Holdings) Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
-    "veroeffentlichung": "2015-09-03",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Henderson Group Holdings Asset Management Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
-    "veroeffentlichung": "2015-09-03",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Henderson Holdings Group Limited",
-      "sitz": "Birmingham",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
     "veroeffentlichung": "2026-06-11",
     "emittent": {
       "name": "PWO AG",
@@ -11773,7 +11479,7 @@
     },
     "meldepflichtiger": {
       "name": "Hermle Familienstiftung",
-      "sitz": "Stühlingen",
+      "sitz": "Gosheim",
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
@@ -12129,22 +11835,6 @@
     }
   },
   {
-    "veroeffentlichung": "2015-09-03",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "HGI Asset Management Group Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
     "veroeffentlichung": "2015-11-11",
     "emittent": {
       "name": "Hapag-Lloyd Aktiengesellschaft",
@@ -12177,7 +11867,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-18",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
       "name": "JOST Werke SE",
       "sitz": "Neu-Isenburg",
@@ -12187,9 +11877,9 @@
       "name": "Higgons, William"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.88,
+      "gesamt": 5.00337,
       "instrumente": 0,
-      "summe": 3.88
+      "summe": 5.00337
     }
   },
   {
@@ -12391,7 +12081,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-24",
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "NORMA Group SE",
       "sitz": "Maintal",
@@ -12401,9 +12091,9 @@
       "name": "Hoek, Nicolaas"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.0034,
+      "gesamt": 4.9958,
       "instrumente": 0,
-      "summe": 5.0034
+      "summe": 4.9958
     }
   },
   {
@@ -12738,6 +12428,24 @@
       "gesamt": 2.98,
       "instrumente": 33,
       "summe": 35.98
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-17",
+    "emittent": {
+      "name": "CECONOMY AG",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "HSBC Holdings plc",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.03,
+      "instrumente": 0,
+      "summe": 3.03
     }
   },
   {
@@ -13205,6 +12913,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-23",
+    "emittent": {
+      "name": "TAG Immobilien AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Internationale Kapitalanlagegesellschaft mit beschränkter Haftung",
+      "sitz": "Düsseldorf",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0.36,
+      "summe": 3.37
+    }
+  },
+  {
     "veroeffentlichung": "2022-10-05",
     "emittent": {
       "name": "Daimler Truck Holding AG",
@@ -13345,7 +13071,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -13357,9 +13083,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.39,
-      "instrumente": 0.88,
-      "summe": 4.27
+      "gesamt": 3.05,
+      "instrumente": 1.19,
+      "summe": 4.24
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-06",
+    "emittent": {
+      "name": "HELIOS SOLAR AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "IWC Management Pte. Ltd.",
+      "sitz": "Singapore",
+      "land": "Republik Singapur"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 13.16,
+      "instrumente": 0,
+      "summe": 13.16
     }
   },
   {
@@ -13379,7 +13123,25 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-01",
+    "emittent": {
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "J.P. Morgan Investment Management Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.06,
+      "instrumente": 0,
+      "summe": 3.06
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "Continental Aktiengesellschaft",
       "sitz": "Hannover",
@@ -13391,27 +13153,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
+      "gesamt": 3.1,
       "instrumente": 0.02,
-      "summe": 3.02
-    }
-  },
-  {
-    "veroeffentlichung": "2025-09-25",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "J.P. Morgan Investment Management Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.8,
-      "instrumente": 0.07,
-      "summe": 4.87
+      "summe": 3.12
     }
   },
   {
@@ -13527,204 +13271,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-07-12",
-    "emittent": {
-      "name": "Westwing Group SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.12,
-      "instrumente": 0,
-      "summe": 5.12
-    }
-  },
-  {
-    "veroeffentlichung": "2026-05-20",
-    "emittent": {
-      "name": "SUSS MicroTec SE",
-      "sitz": "Garching b. München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.99857,
-      "instrumente": 0,
-      "summe": 4.99857
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-10",
-    "emittent": {
-      "name": "Ströer SE & Co. KGaA",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-17",
-    "emittent": {
-      "name": "STRATEC SE",
-      "sitz": "Birkenfeld",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.11,
-      "instrumente": 0,
-      "summe": 3.11
-    }
-  },
-  {
-    "veroeffentlichung": "2025-05-28",
-    "emittent": {
-      "name": "PVA TePla AG",
-      "sitz": "Wettenberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.35,
-      "instrumente": 0,
-      "summe": 4.35
-    }
-  },
-  {
-    "veroeffentlichung": "2025-10-24",
-    "emittent": {
-      "name": "Medios AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 6.39,
-      "instrumente": 0,
-      "summe": 6.39
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-11",
-    "emittent": {
-      "name": "JOST Werke SE",
-      "sitz": "Neu-Isenburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.55,
-      "instrumente": 0,
-      "summe": 3.55
-    }
-  },
-  {
-    "veroeffentlichung": "2026-05-04",
-    "emittent": {
-      "name": "Eckert & Ziegler SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0,
-      "summe": 3.01
-    }
-  },
-  {
-    "veroeffentlichung": "2025-06-02",
-    "emittent": {
-      "name": "Bike24 Holding AG",
-      "sitz": "Dresden",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 7.83,
-      "instrumente": 0,
-      "summe": 7.83
-    }
-  },
-  {
-    "veroeffentlichung": "2025-03-19",
-    "emittent": {
-      "name": "Alzchem Group AG",
-      "sitz": "Trostberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.97,
-      "instrumente": 0,
-      "summe": 4.97
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-02",
-    "emittent": {
-      "name": "adesso SE",
-      "sitz": "Dortmund",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JANUS HENDERSON GROUP PLC",
-      "sitz": "St Helier",
-      "land": "Jersey, Kanalinseln"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
-    }
-  },
-  {
     "veroeffentlichung": "2025-07-01",
     "emittent": {
       "name": "Westwing Group SE",
@@ -13743,10 +13289,10 @@
     }
   },
   {
-    "veroeffentlichung": "2015-02-27",
+    "veroeffentlichung": "2024-07-12",
     "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
+      "name": "Westwing Group SE",
+      "sitz": "Berlin",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -13755,7 +13301,189 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.006
+      "gesamt": 5.12,
+      "instrumente": 0,
+      "summe": 5.12
+    }
+  },
+  {
+    "veroeffentlichung": "2026-05-20",
+    "emittent": {
+      "name": "SUSS MicroTec SE",
+      "sitz": "Garching b. München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.99,
+      "instrumente": 0,
+      "summe": 4.99
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-10",
+    "emittent": {
+      "name": "Ströer SE & Co. KGaA",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
+    }
+  },
+  {
+    "veroeffentlichung": "2026-06-17",
+    "emittent": {
+      "name": "STRATEC SE",
+      "sitz": "Birkenfeld",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.11,
+      "instrumente": 0,
+      "summe": 3.11
+    }
+  },
+  {
+    "veroeffentlichung": "2025-05-28",
+    "emittent": {
+      "name": "PVA TePla AG",
+      "sitz": "Wettenberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.35,
+      "instrumente": 0,
+      "summe": 4.35
+    }
+  },
+  {
+    "veroeffentlichung": "2025-10-24",
+    "emittent": {
+      "name": "Medios AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 6.39,
+      "instrumente": 0,
+      "summe": 6.39
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-11",
+    "emittent": {
+      "name": "JOST Werke SE",
+      "sitz": "Neu-Isenburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.55,
+      "instrumente": 0,
+      "summe": 3.55
+    }
+  },
+  {
+    "veroeffentlichung": "2026-05-04",
+    "emittent": {
+      "name": "Eckert & Ziegler SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.01,
+      "instrumente": 0,
+      "summe": 3.01
+    }
+  },
+  {
+    "veroeffentlichung": "2025-06-02",
+    "emittent": {
+      "name": "Bike24 Holding AG",
+      "sitz": "Dresden",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 7.83,
+      "instrumente": 0,
+      "summe": 7.83
+    }
+  },
+  {
+    "veroeffentlichung": "2025-03-19",
+    "emittent": {
+      "name": "Alzchem Group AG",
+      "sitz": "Trostberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.97,
+      "instrumente": 0,
+      "summe": 4.97
+    }
+  },
+  {
+    "veroeffentlichung": "2025-12-02",
+    "emittent": {
+      "name": "adesso SE",
+      "sitz": "Dortmund",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Janus Henderson Investors UK Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
@@ -13777,22 +13505,6 @@
     }
   },
   {
-    "veroeffentlichung": "2015-09-03",
-    "emittent": {
-      "name": "Fresenius SE & Co. KGaA",
-      "sitz": "Bad Homburg v. d. Höhe",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Janus Henderson UK (Holdings) Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.006
-    }
-  },
-  {
     "veroeffentlichung": "2018-12-11",
     "emittent": {
       "name": "elumeo SE",
@@ -13809,7 +13521,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-04",
+    "veroeffentlichung": "2026-09-02",
     "emittent": {
       "name": "ZEAL Network SE",
       "sitz": "Hamburg",
@@ -13825,7 +13537,7 @@
     }
   },
   {
-    "veroeffentlichung": "2024-12-17",
+    "veroeffentlichung": "2026-09-03",
     "emittent": {
       "name": "MAX Automation SE",
       "sitz": "Hamburg",
@@ -13835,9 +13547,9 @@
       "name": "Jaster, Oliver"
     },
     "stimmrechtsanteile": {
-      "gesamt": 65.98,
+      "gesamt": 66.71,
       "instrumente": 0,
-      "summe": 65.98
+      "summe": 66.71
     }
   },
   {
@@ -13929,7 +13641,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-08",
+    "veroeffentlichung": "2026-08-17",
     "emittent": {
       "name": "Alzchem Group AG",
       "sitz": "Trostberg",
@@ -13941,9 +13653,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.2,
+      "gesamt": 15.16,
       "instrumente": 0,
-      "summe": 10.2
+      "summe": 15.16
     }
   },
   {
@@ -13981,7 +13693,25 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-01",
+    "emittent": {
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMorgan Asset Management (UK) Limited",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.06,
+      "instrumente": 0,
+      "summe": 3.06
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "Continental Aktiengesellschaft",
       "sitz": "Hannover",
@@ -13993,49 +13723,13 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
+      "gesamt": 3.1,
       "instrumente": 0.02,
-      "summe": 3.02
+      "summe": 3.12
     }
   },
   {
-    "veroeffentlichung": "2025-09-25",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMorgan Asset Management (UK) Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.8,
-      "instrumente": 0.07,
-      "summe": 4.87
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-16",
-    "emittent": {
-      "name": "SMA Solar Technology AG",
-      "sitz": "Niestetal",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMORGAN CHASE & CO",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.28,
-      "instrumente": 5.65,
-      "summe": 5.93
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-06",
+    "veroeffentlichung": "2026-07-27",
     "emittent": {
       "name": "Siltronic AG",
       "sitz": "München",
@@ -14047,13 +13741,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.27,
-      "instrumente": 1.04,
-      "summe": 5.31
+      "gesamt": 3.92,
+      "instrumente": 1.07,
+      "summe": 4.99
     }
   },
   {
-    "veroeffentlichung": "2026-06-26",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -14065,9 +13759,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.18,
-      "instrumente": 0.68,
-      "summe": 5.86
+      "gesamt": 5.01,
+      "instrumente": 0.63,
+      "summe": 5.64
     }
   },
   {
@@ -14089,7 +13783,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-11",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -14101,13 +13795,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 3.37,
-      "summe": 6.39
+      "gesamt": 3.14,
+      "instrumente": 0.07,
+      "summe": 3.21
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "LANXESS Aktiengesellschaft",
       "sitz": "Köln",
@@ -14119,16 +13813,16 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.9,
-      "instrumente": 4.01,
-      "summe": 7.91
+      "gesamt": 1.86,
+      "instrumente": 3.27,
+      "summe": 5.13
     }
   },
   {
-    "veroeffentlichung": "2026-06-08",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
+      "name": "K+S Aktiengesellschaft",
+      "sitz": "Kassel",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -14137,13 +13831,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.59,
-      "instrumente": 0.27,
-      "summe": 3.86
+      "gesamt": 2.6,
+      "instrumente": 3.77,
+      "summe": 6.37
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Evotec SE",
       "sitz": "Hamburg",
@@ -14155,13 +13849,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.68,
-      "instrumente": 1.29,
-      "summe": 4.97
+      "gesamt": 3.46,
+      "instrumente": 2.09,
+      "summe": 5.56
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -14173,13 +13867,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.45,
-      "instrumente": 4.99557,
-      "summe": 7.44
+      "gesamt": 1.03,
+      "instrumente": 4.14,
+      "summe": 5.17
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "Adtran Networks SE",
       "sitz": "Meiningen",
@@ -14191,13 +13885,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.54,
-      "instrumente": 0.00486,
-      "summe": 3.55
+      "gesamt": 3.71,
+      "instrumente": 0,
+      "summe": 3.71
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-09-01",
+    "emittent": {
+      "name": "SAF-HOLLAND SE",
+      "sitz": "Bessenbach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "JPMorgan Chase Bank, N.A.",
+      "sitz": "Columbus",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.06,
+      "instrumente": 0,
+      "summe": 3.06
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "Continental Aktiengesellschaft",
       "sitz": "Hannover",
@@ -14209,27 +13921,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.01,
+      "gesamt": 3.1,
       "instrumente": 0.02,
-      "summe": 3.02
-    }
-  },
-  {
-    "veroeffentlichung": "2025-09-25",
-    "emittent": {
-      "name": "Bilfinger SE",
-      "sitz": "Mannheim",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "JPMorgan Chase Bank, N.A.",
-      "sitz": "Columbus",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.8,
-      "instrumente": 0.07,
-      "summe": 4.87
+      "summe": 3.12
     }
   },
   {
@@ -14379,7 +14073,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-12",
+    "veroeffentlichung": "2026-08-20",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -14389,9 +14083,9 @@
       "name": "Kain, Raphael"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.92,
-      "instrumente": 0.23,
-      "summe": 10.15
+      "gesamt": 7.8,
+      "instrumente": 2.19,
+      "summe": 9.99
     }
   },
   {
@@ -14652,38 +14346,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 5
-    }
-  },
-  {
-    "veroeffentlichung": "2023-06-07",
-    "emittent": {
-      "name": "Gateway Real Estate AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Ketterer, Norbert"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 66.24,
-      "instrumente": 0,
-      "summe": 66.24
-    }
-  },
-  {
-    "veroeffentlichung": "2023-06-07",
-    "emittent": {
-      "name": "Gateway Real Estate AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Ketterer, Sandra"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 14.9995,
-      "instrumente": 0,
-      "summe": 14.9995
     }
   },
   {
@@ -15075,7 +14737,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-11-18",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -15085,9 +14747,9 @@
       "name": "Kleine-Dürschmidt, Dr. Christa"
     },
     "stimmrechtsanteile": {
-      "gesamt": 20.58,
-      "instrumente": 5.42,
-      "summe": 26
+      "gesamt": 21.16,
+      "instrumente": 0,
+      "summe": 21.16
     }
   },
   {
@@ -15262,24 +14924,6 @@
       "gesamt": 35.01,
       "instrumente": 0,
       "summe": 35.01
-    }
-  },
-  {
-    "veroeffentlichung": "2025-04-07",
-    "emittent": {
-      "name": "PSI Software SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Konsortium der gegenwärtigen und ehemaligen Mitarbeiter-Aktionäre der PSI Aktiengesellschaft für Produkte und Systeme der Informationstechnologie",
-      "sitz": "Erkrath",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.63,
-      "instrumente": 0,
-      "summe": 4.63
     }
   },
   {
@@ -15666,100 +15310,6 @@
       "gesamt": 16.7,
       "instrumente": 0,
       "summe": 16.7
-    }
-  },
-  {
-    "veroeffentlichung": "2015-11-10",
-    "emittent": {
-      "name": "Hapag-Lloyd Aktiengesellschaft",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne Holding AG",
-      "sitz": "Feusisberg",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 72.2
-    }
-  },
-  {
-    "veroeffentlichung": "2015-11-09",
-    "emittent": {
-      "name": "Hapag-Lloyd Aktiengesellschaft",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne Maritime GmbH",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 71.56
-    }
-  },
-  {
-    "veroeffentlichung": "2025-10-14",
-    "emittent": {
-      "name": "Ottobock SE & Co. KGaA",
-      "sitz": "Duderstadt",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne, Klaus-Michael"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.47,
-      "instrumente": 0,
-      "summe": 3.47
-    }
-  },
-  {
-    "veroeffentlichung": "2015-11-10",
-    "emittent": {
-      "name": "Hapag-Lloyd Aktiengesellschaft",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne, Klaus-Michael"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 72.2
-    }
-  },
-  {
-    "veroeffentlichung": "2026-05-11",
-    "emittent": {
-      "name": "Deutsche Lufthansa Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne, Klaus-Michael"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 20.00001,
-      "instrumente": 0,
-      "summe": 20.00001
-    }
-  },
-  {
-    "veroeffentlichung": "2025-12-08",
-    "emittent": {
-      "name": "Brenntag SE",
-      "sitz": "Essen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Kühne, Klaus-Michael"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 20.1,
-      "instrumente": 0,
-      "summe": 20.1
     }
   },
   {
@@ -16569,24 +16119,6 @@
     }
   },
   {
-    "veroeffentlichung": "2021-07-13",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Lazard Frères Gestion S.A.S.",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.03,
-      "instrumente": 0,
-      "summe": 5.03
-    }
-  },
-  {
     "veroeffentlichung": "2025-02-12",
     "emittent": {
       "name": "WashTec AG",
@@ -16652,24 +16184,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 3.0021
-    }
-  },
-  {
-    "veroeffentlichung": "2024-01-17",
-    "emittent": {
-      "name": "PVA TePla AG",
-      "sitz": "Wettenberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "LAZARD SMALL CAPS EURO",
-      "sitz": "Paris",
-      "land": "Frankreich"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.41,
-      "instrumente": 0,
-      "summe": 3.41
     }
   },
   {
@@ -17199,24 +16713,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-11-22",
-    "emittent": {
-      "name": "Cherry SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Lemanik Holding SA",
-      "sitz": "Lugano",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.35,
-      "instrumente": 0,
-      "summe": 5.35
-    }
-  },
-  {
     "veroeffentlichung": "2023-12-14",
     "emittent": {
       "name": "HENSOLDT AG",
@@ -17549,22 +17045,6 @@
     }
   },
   {
-    "veroeffentlichung": "2013-02-12",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Lins Wallpaper Limited",
-      "sitz": "London",
-      "land": "Großbritannien"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 15.01
-    }
-  },
-  {
     "veroeffentlichung": "2025-09-10",
     "emittent": {
       "name": "CECONOMY AG",
@@ -17705,22 +17185,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-10-27",
-    "emittent": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Locker, Rudolf"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0,
-      "summe": 3.06
-    }
-  },
-  {
     "veroeffentlichung": "2016-01-06",
     "emittent": {
       "name": "ORBIS SE",
@@ -17769,7 +17233,7 @@
   {
     "veroeffentlichung": "2021-01-27",
     "emittent": {
-      "name": "iQ International AG in Liquidation",
+      "name": "iQ International AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -18065,6 +17529,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-13",
+    "emittent": {
+      "name": "Bilfinger SE",
+      "sitz": "Mannheim",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "M&G PLC",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.26,
+      "instrumente": 0,
+      "summe": 3.26
+    }
+  },
+  {
     "veroeffentlichung": "2022-07-25",
     "emittent": {
       "name": "tiscon AG",
@@ -18097,6 +17579,22 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-04",
+    "emittent": {
+      "name": "PVA TePla AG",
+      "sitz": "Wettenberg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Mahadevia, Aalap"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.9,
+      "instrumente": 2.17,
+      "summe": 5.07
+    }
+  },
+  {
     "veroeffentlichung": "2026-02-13",
     "emittent": {
       "name": "PSI Software SE",
@@ -18126,22 +17624,6 @@
       "gesamt": 2.82,
       "instrumente": 2.31,
       "summe": 5.13
-    }
-  },
-  {
-    "veroeffentlichung": "2024-10-14",
-    "emittent": {
-      "name": "Pentixapharm Holding AG",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Maier, Thomas Peter"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.86,
-      "instrumente": 0,
-      "summe": 3.86
     }
   },
   {
@@ -18225,22 +17707,6 @@
     }
   },
   {
-    "veroeffentlichung": "2021-02-12",
-    "emittent": {
-      "name": "AUTO1 Group SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Mandel, Jr., Stephen F."
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.21,
-      "instrumente": 0,
-      "summe": 3.21
-    }
-  },
-  {
     "veroeffentlichung": "2026-02-25",
     "emittent": {
       "name": "DF Deutsche Forfait Aktiengesellschaft",
@@ -18270,38 +17736,6 @@
       "gesamt": 8.02,
       "instrumente": 0,
       "summe": 8.02
-    }
-  },
-  {
-    "veroeffentlichung": "2024-11-14",
-    "emittent": {
-      "name": "Manz AG",
-      "sitz": "Reutlingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Manz, Dieter"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 18.92,
-      "instrumente": 0,
-      "summe": 18.92
-    }
-  },
-  {
-    "veroeffentlichung": "2022-07-29",
-    "emittent": {
-      "name": "Manz AG",
-      "sitz": "Reutlingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Manz, Ulrike"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.55,
-      "instrumente": 0,
-      "summe": 4.55
     }
   },
   {
@@ -18867,24 +18301,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-03",
-    "emittent": {
-      "name": "Zalando SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "MFS MERIDIAN FUNDS",
-      "sitz": "Luxembourg",
-      "land": "Luxemburg"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0,
-      "summe": 3.02
-    }
-  },
-  {
     "veroeffentlichung": "2026-01-15",
     "emittent": {
       "name": "Symrise AG",
@@ -18934,6 +18350,24 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 83.49
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-27",
+    "emittent": {
+      "name": "AMADEUS FIRE AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Midlin N.V.",
+      "sitz": "Maarsbergen",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0,
+      "summe": 3.04
     }
   },
   {
@@ -19143,6 +18577,22 @@
     }
   },
   {
+    "veroeffentlichung": "2026-09-01",
+    "emittent": {
+      "name": "Bertrandt Aktiengesellschaft",
+      "sitz": "Ehningen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Mohn, Johannes"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.00397,
+      "instrumente": 0,
+      "summe": 3.00397
+    }
+  },
+  {
     "veroeffentlichung": "2025-12-17",
     "emittent": {
       "name": "MAX Automation SE",
@@ -19213,7 +18663,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-28",
+    "veroeffentlichung": "2026-08-06",
     "emittent": {
       "name": "WashTec AG",
       "sitz": "Augsburg",
@@ -19225,9 +18675,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.47,
-      "instrumente": 4.62,
-      "summe": 14.09
+      "gesamt": 6.3,
+      "instrumente": 3.53,
+      "summe": 9.83
     }
   },
   {
@@ -19249,7 +18699,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "STRATEC SE",
       "sitz": "Birkenfeld",
@@ -19261,13 +18711,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.95,
-      "instrumente": 0.04,
-      "summe": 9.99634
+      "gesamt": 10.55,
+      "instrumente": 1.12,
+      "summe": 11.67
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "Singulus Technologies Aktiengesellschaft",
       "sitz": "Kahl am Main",
@@ -19279,13 +18729,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.28,
+      "gesamt": 5.26,
       "instrumente": 0.35,
-      "summe": 5.63
+      "summe": 5.61
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-08-24",
     "emittent": {
       "name": "PVA TePla AG",
       "sitz": "Wettenberg",
@@ -19297,13 +18747,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.95,
-      "instrumente": 3.15,
-      "summe": 10.1
+      "gesamt": 8.9,
+      "instrumente": 5.54,
+      "summe": 14.45
     }
   },
   {
-    "veroeffentlichung": "2026-05-26",
+    "veroeffentlichung": "2026-09-10",
+    "emittent": {
+      "name": "PUMA SE",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 2.85,
+      "instrumente": 2.23,
+      "summe": 5.09
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-22",
     "emittent": {
       "name": "PSI Software SE",
       "sitz": "Berlin",
@@ -19315,9 +18783,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 12.89,
-      "instrumente": 2.52,
-      "summe": 15.4
+      "gesamt": 9.9,
+      "instrumente": 0,
+      "summe": 9.9
     }
   },
   {
@@ -19339,6 +18807,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-07",
+    "emittent": {
+      "name": "Pentixapharm Holding AG",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Morgan Stanley",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.15,
+      "instrumente": 2,
+      "summe": 5.15
+    }
+  },
+  {
     "veroeffentlichung": "2023-08-08",
     "emittent": {
       "name": "NFON AG",
@@ -19357,7 +18843,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -19369,13 +18855,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.52,
-      "instrumente": 8.9,
-      "summe": 13.42
+      "gesamt": 4.21,
+      "instrumente": 3.97,
+      "summe": 8.18
     }
   },
   {
-    "veroeffentlichung": "2026-02-11",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
       "sitz": "Stuttgart",
@@ -19387,27 +18873,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.15,
-      "instrumente": 7.64,
-      "summe": 7.79
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-13",
-    "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Morgan Stanley",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.00203,
-      "instrumente": 1.72,
-      "summe": 4.72
+      "gesamt": 0.4,
+      "instrumente": 4.84,
+      "summe": 5.24
     }
   },
   {
@@ -19429,7 +18897,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-07-30",
     "emittent": {
       "name": "Eckert & Ziegler SE",
       "sitz": "Berlin",
@@ -19441,13 +18909,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.1,
-      "instrumente": 2.4,
-      "summe": 5.5
+      "gesamt": 2.89,
+      "instrumente": 2.44,
+      "summe": 5.32
     }
   },
   {
-    "veroeffentlichung": "2026-06-23",
+    "veroeffentlichung": "2026-08-13",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -19459,9 +18927,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 6.7,
-      "instrumente": 7.97,
-      "summe": 14.67
+      "gesamt": 6.52,
+      "instrumente": 7.49,
+      "summe": 14.01
     }
   },
   {
@@ -19501,7 +18969,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -19513,13 +18981,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.32,
-      "instrumente": 3.04,
-      "summe": 6.37
+      "gesamt": 3.58,
+      "instrumente": 2.73,
+      "summe": 6.31
     }
   },
   {
-    "veroeffentlichung": "2026-06-11",
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "AUTO1 Group SE",
       "sitz": "München",
@@ -19531,13 +18999,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 12.03,
-      "instrumente": 11.24,
-      "summe": 23.27
+      "gesamt": 16.07,
+      "instrumente": 10.05,
+      "summe": 26.12
     }
   },
   {
-    "veroeffentlichung": "2026-06-22",
+    "veroeffentlichung": "2026-09-05",
     "emittent": {
       "name": "ADTRAN Holdings, Inc.",
       "sitz": "Wilmington",
@@ -19549,9 +19017,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.71,
-      "instrumente": 8.27,
-      "summe": 9.98
+      "gesamt": 3.67,
+      "instrumente": 3.29,
+      "summe": 6.96
     }
   },
   {
@@ -19821,7 +19289,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-05",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -19831,9 +19299,9 @@
       "name": "Müller-Dürschmidt, Linda"
     },
     "stimmrechtsanteile": {
-      "gesamt": 20.58,
-      "instrumente": 5.42,
-      "summe": 26
+      "gesamt": 21.16,
+      "instrumente": 0,
+      "summe": 21.16
     }
   },
   {
@@ -19946,42 +19414,6 @@
       "gesamt": 16.83,
       "instrumente": 0,
       "summe": 16.83
-    }
-  },
-  {
-    "veroeffentlichung": "2021-11-16",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Nationale-Nederlanden Otwarty Fundusz Emerytalny",
-      "sitz": "Warszawa",
-      "land": "Polen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.99,
-      "instrumente": 0,
-      "summe": 9.99
-    }
-  },
-  {
-    "veroeffentlichung": "2022-03-04",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Nationale-Nederlanden Powszechne Towarzystwo Emerytalne S.A.",
-      "sitz": "Warszawa",
-      "land": "Polen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.999,
-      "instrumente": 0,
-      "summe": 9.999
     }
   },
   {
@@ -20525,24 +19957,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-09-15",
-    "emittent": {
-      "name": "Deutsche EuroShop AG",
-      "sitz": "Hamburg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Oaktree Capital Group Holdings GP, LLC",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 76.44,
-      "instrumente": 0,
-      "summe": 76.44
-    }
-  },
-  {
     "veroeffentlichung": "2021-06-14",
     "emittent": {
       "name": "SURTECO GROUP SE",
@@ -20559,7 +19973,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-04",
+    "veroeffentlichung": "2026-08-11",
     "emittent": {
       "name": "ATOSS Software SE",
       "sitz": "München",
@@ -20569,9 +19983,73 @@
       "name": "Obereder, Andreas F.J."
     },
     "stimmrechtsanteile": {
-      "gesamt": 23.9,
+      "gesamt": 25.08,
       "instrumente": 0,
-      "summe": 23.9
+      "summe": 25.08
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-11",
+    "emittent": {
+      "name": "ATOSS Software SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Obereder, Christopher"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 25.08,
+      "instrumente": 0,
+      "summe": 25.08
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-11",
+    "emittent": {
+      "name": "ATOSS Software SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Obereder, Nicola-Sophie"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 25.08,
+      "instrumente": 0,
+      "summe": 25.08
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-11",
+    "emittent": {
+      "name": "ATOSS Software SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Obereder, Ursula"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 25.08,
+      "instrumente": 0,
+      "summe": 25.08
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-11",
+    "emittent": {
+      "name": "ATOSS Software SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Obereder, Valerie"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 25.08,
+      "instrumente": 0,
+      "summe": 25.08
     }
   },
   {
@@ -20741,6 +20219,22 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-06",
+    "emittent": {
+      "name": "HELIOS SOLAR AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Ong, Thuan Ming"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 74.4,
+      "instrumente": 0,
+      "summe": 74.4
+    }
+  },
+  {
     "veroeffentlichung": "2025-11-25",
     "emittent": {
       "name": "HUGO BOSS AG",
@@ -20759,6 +20253,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-29",
+    "emittent": {
+      "name": "Aurubis AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Optiver Holding B.V.",
+      "sitz": "Amsterdam",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0,
+      "instrumente": 10.64,
+      "summe": 10.64
+    }
+  },
+  {
     "veroeffentlichung": "2018-11-07",
     "emittent": {
       "name": "ORBIS SE",
@@ -20774,23 +20286,6 @@
       "gesamt": 3.2585,
       "instrumente": 0,
       "summe": 3.2585
-    }
-  },
-  {
-    "veroeffentlichung": "2009-06-19",
-    "emittent": {
-      "name": "Ludwig Beck am Rathauseck - Textilhaus Feldmeier Aktiengesellschaft",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Ost-West Beteiligungs- und Grundstücksverwaltungs-Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.007,
-      "summe": 0
     }
   },
   {
@@ -20920,7 +20415,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-12",
+    "veroeffentlichung": "2026-08-14",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -20930,9 +20425,9 @@
       "name": "Papenburg, Günter"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.07,
+      "gesamt": 5.01,
       "instrumente": 0,
-      "summe": 3.07
+      "summe": 5.01
     }
   },
   {
@@ -20972,7 +20467,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-19",
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "7C Solarparken AG",
       "sitz": "Bayreuth",
@@ -20984,9 +20479,9 @@
       "land": "Belgien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.05,
+      "gesamt": 5.05,
       "instrumente": 0,
-      "summe": 3.05
+      "summe": 5.05
     }
   },
   {
@@ -21003,24 +20498,6 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 5.53
-    }
-  },
-  {
-    "veroeffentlichung": "2018-06-20",
-    "emittent": {
-      "name": "capsensixx AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "PEH Wertpapier AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 75.29,
-      "instrumente": 3.22,
-      "summe": 78.51
     }
   },
   {
@@ -21260,7 +20737,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-05",
+    "veroeffentlichung": "2026-08-05",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -21270,9 +20747,9 @@
       "name": "Pirkl-Dürschmidt, Laura"
     },
     "stimmrechtsanteile": {
-      "gesamt": 20.58,
-      "instrumente": 5.42,
-      "summe": 26
+      "gesamt": 21.16,
+      "instrumente": 0,
+      "summe": 21.16
     }
   },
   {
@@ -22784,6 +22261,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-30",
+    "emittent": {
+      "name": "LPKF Laser & Electronics SE",
+      "sitz": "Garbsen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Premier Miton Group plc",
+      "sitz": "London",
+      "land": "Großbritannien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.38,
+      "instrumente": 0,
+      "summe": 3.38
+    }
+  },
+  {
     "veroeffentlichung": "2026-03-04",
     "emittent": {
       "name": "pferdewetten.de AG",
@@ -23102,8 +22597,8 @@
   {
     "veroeffentlichung": "2026-06-18",
     "emittent": {
-      "name": "creditshelf Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
+      "name": "Nexum Group AG",
+      "sitz": "München",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -23665,7 +23160,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-15",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "TAG Immobilien AG",
       "sitz": "Hamburg",
@@ -23677,9 +23172,9 @@
       "land": "Australien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.08,
+      "gesamt": 4.74,
       "instrumente": 0,
-      "summe": 5.08
+      "summe": 4.74
     }
   },
   {
@@ -23808,22 +23303,6 @@
       "gesamt": 4.61,
       "instrumente": 0,
       "summe": 4.61
-    }
-  },
-  {
-    "veroeffentlichung": "2009-06-25",
-    "emittent": {
-      "name": "Ludwig Beck am Rathauseck - Textilhaus Feldmeier Aktiengesellschaft",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Rheintex Verwaltungs AG (vormals Rheinische Textilfabriken AG, gegründet 1910)",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.019
     }
   },
   {
@@ -23991,7 +23470,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-04",
+    "veroeffentlichung": "2026-08-24",
     "emittent": {
       "name": "pferdewetten.de AG",
       "sitz": "Düsseldorf",
@@ -24003,9 +23482,9 @@
       "land": "Großbritannien"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0,
-      "instrumente": 6.86,
-      "summe": 6.86
+      "gesamt": 1.85,
+      "instrumente": 13.02,
+      "summe": 14.87
     }
   },
   {
@@ -24163,7 +23642,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-25",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -24175,9 +23654,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.99,
-      "instrumente": 6.81,
-      "summe": 17.8
+      "gesamt": 7.65,
+      "instrumente": 8.15,
+      "summe": 15.81
     }
   },
   {
@@ -24217,7 +23696,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-22",
+    "veroeffentlichung": "2026-08-07",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -24229,9 +23708,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 14.97,
-      "instrumente": 6.14,
-      "summe": 21.11
+      "gesamt": 15.11,
+      "instrumente": 6.47,
+      "summe": 21.58
     }
   },
   {
@@ -24525,22 +24004,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-10-07",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Röhrig, Klaus"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 58.45,
-      "instrumente": 0,
-      "summe": 58.45
-    }
-  },
-  {
     "veroeffentlichung": "2025-04-15",
     "emittent": {
       "name": "AMADEUS FIRE AG",
@@ -24639,7 +24102,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-06-12",
+    "veroeffentlichung": "2026-08-20",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -24651,9 +24114,9 @@
       "land": "Cayman Inseln (Kaimaninseln)"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.92,
-      "instrumente": 0.23,
-      "summe": 10.15
+      "gesamt": 7.8,
+      "instrumente": 2.19,
+      "summe": 9.99
     }
   },
   {
@@ -24688,24 +24151,6 @@
       "gesamt": 9.34,
       "instrumente": 0,
       "summe": 9.34
-    }
-  },
-  {
-    "veroeffentlichung": "2019-04-15",
-    "emittent": {
-      "name": "Gateway Real Estate AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Santo Holding AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.41,
-      "instrumente": 0,
-      "summe": 3.41
     }
   },
   {
@@ -25373,22 +24818,6 @@
     }
   },
   {
-    "veroeffentlichung": "2020-04-27",
-    "emittent": {
-      "name": "Masterflex SE",
-      "sitz": "Gelsenkirchen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Schmidt, Edelhart"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 9.96,
-      "instrumente": 0,
-      "summe": 9.96
-    }
-  },
-  {
     "veroeffentlichung": "2026-05-28",
     "emittent": {
       "name": "SCHNIGGE Capital Markets SE",
@@ -25562,34 +24991,6 @@
       "gesamt": 38.78,
       "instrumente": 0,
       "summe": 38.78
-    }
-  },
-  {
-    "veroeffentlichung": "2013-04-24",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Schneider, Franz Jürgen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 35.39
-    }
-  },
-  {
-    "veroeffentlichung": "2002-04-16",
-    "emittent": {
-      "name": "A.S. Création Tapeten AG",
-      "sitz": "Gummersbach",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Schneider, Karin"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 10.04
     }
   },
   {
@@ -25800,22 +25201,6 @@
       "gesamt": 6.04,
       "instrumente": 0,
       "summe": 6.04
-    }
-  },
-  {
-    "veroeffentlichung": "2024-10-07",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Schuhbauer, Florian"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 58.45,
-      "instrumente": 0,
-      "summe": 58.45
     }
   },
   {
@@ -26051,6 +25436,38 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-30",
+    "emittent": {
+      "name": "Readcrest Capital AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Schwerdtfeger, Celina"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 13.11,
+      "instrumente": 0,
+      "summe": 13.11
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-30",
+    "emittent": {
+      "name": "Readcrest Capital AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Schwerdtfeger, Florian"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 13.11,
+      "instrumente": 0,
+      "summe": 13.11
+    }
+  },
+  {
     "veroeffentlichung": "2018-05-11",
     "emittent": {
       "name": "TTL Beteiligungs- und Grundbesitz-AG",
@@ -26183,7 +25600,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-22",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Scout24 SE",
       "sitz": "München",
@@ -26195,9 +25612,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.027,
+      "gesamt": 5.013,
       "instrumente": 0,
-      "summe": 5.027
+      "summe": 5.013
     }
   },
   {
@@ -26264,6 +25681,22 @@
       "gesamt": 3.03,
       "instrumente": 0,
       "summe": 3.03
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-28",
+    "emittent": {
+      "name": "Nagarro SE",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Sehgal, Vikram"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.08,
+      "instrumente": 0,
+      "summe": 3.08
     }
   },
   {
@@ -26539,24 +25972,6 @@
     }
   },
   {
-    "veroeffentlichung": "2023-09-05",
-    "emittent": {
-      "name": "FamiCord AG",
-      "sitz": "Leipzig",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Shareholder Value Beteiligungen AG",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 5.43,
-      "instrumente": 0,
-      "summe": 5.43
-    }
-  },
-  {
     "veroeffentlichung": "2019-05-27",
     "emittent": {
       "name": "INTERSHOP Communications Aktiengesellschaft",
@@ -26623,7 +26038,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-04-02",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "Siemens Energy AG",
       "sitz": "München",
@@ -26635,9 +26050,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.54,
+      "gesamt": 4.98,
       "instrumente": 0,
-      "summe": 5.54
+      "summe": 4.98
     }
   },
   {
@@ -26759,6 +26174,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-09-11",
+    "emittent": {
+      "name": "PUMA SE",
+      "sitz": "Herzogenaurach",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "SIH Partners LLLP",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.7,
+      "instrumente": 4.51,
+      "summe": 5.21
+    }
+  },
+  {
     "veroeffentlichung": "2026-06-22",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
@@ -26777,7 +26210,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -26789,9 +26222,27 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.94,
-      "instrumente": 10.1,
-      "summe": 13.04
+      "gesamt": 0.81,
+      "instrumente": 14.3,
+      "summe": 15.11
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-27",
+    "emittent": {
+      "name": "Aurubis AG",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "SIH Partners LLLP",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.1,
+      "instrumente": 11.02,
+      "summe": 11.12
     }
   },
   {
@@ -27005,6 +26456,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-06",
+    "emittent": {
+      "name": "HELIOS SOLAR AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Small & Mid Cap Investmentbank AG",
+      "sitz": "München",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.92,
+      "instrumente": 0,
+      "summe": 4.92
+    }
+  },
+  {
     "veroeffentlichung": "2026-07-03",
     "emittent": {
       "name": "Elmos Semiconductor SE",
@@ -27036,6 +26505,24 @@
       "gesamt": 96.2,
       "instrumente": 0.73,
       "summe": 96.93
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-06",
+    "emittent": {
+      "name": "HUGO BOSS AG",
+      "sitz": "Metzingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Société Générale S.A.",
+      "sitz": "Paris",
+      "land": "Frankreich"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.43,
+      "instrumente": 5.66,
+      "summe": 6.09
     }
   },
   {
@@ -27279,25 +26766,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
-    "emittent": {
-      "name": "LEG Immobilien SE",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Staat Norwegen",
-      "sitz": "Oslo",
-      "land": "Norwegen"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.03,
-      "instrumente": 0,
-      "summe": 3.03
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Infineon Technologies AG",
       "sitz": "Neubiberg",
@@ -27309,13 +26778,13 @@
       "land": "Norwegen"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3,
-      "instrumente": 0.01,
-      "summe": 3.01
+      "gesamt": 3.01,
+      "instrumente": 0.03,
+      "summe": 3.04
     }
   },
   {
-    "veroeffentlichung": "2026-06-24",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -27327,9 +26796,9 @@
       "land": "Norwegen"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.06,
-      "instrumente": 0.82,
-      "summe": 3.88
+      "gesamt": 3.61,
+      "instrumente": 0.22,
+      "summe": 3.83
     }
   },
   {
@@ -27346,6 +26815,24 @@
       "gesamt": 34.06,
       "instrumente": 0,
       "summe": 34.06
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-31",
+    "emittent": {
+      "name": "Stabilus SE",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stabilus SE",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
@@ -27690,24 +27177,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
-    "emittent": {
-      "name": "Nagarro SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Starview Capital Partners, LLC",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.35,
-      "instrumente": 0,
-      "summe": 4.35
-    }
-  },
-  {
     "veroeffentlichung": "2023-01-19",
     "emittent": {
       "name": "Mercedes-Benz Group AG",
@@ -27726,7 +27195,7 @@
     }
   },
   {
-    "veroeffentlichung": "2025-07-07",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "GEA Group Aktiengesellschaft",
       "sitz": "Düsseldorf",
@@ -27738,9 +27207,9 @@
       "land": "Kuwait"
     },
     "stimmrechtsanteile": {
-      "gesamt": 10.5,
+      "gesamt": 6.99,
       "instrumente": 0,
-      "summe": 10.5
+      "summe": 6.99
     }
   },
   {
@@ -27829,6 +27298,24 @@
       "gesamt": 14.43,
       "instrumente": 0,
       "summe": 14.43
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-13",
+    "emittent": {
+      "name": "Vulcan Energy Resources Limited",
+      "sitz": "Perth",
+      "land": "Australien"
+    },
+    "meldepflichtiger": {
+      "name": "State Street Corporation",
+      "sitz": "Boston",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.34,
+      "instrumente": 0,
+      "summe": 3.34
     }
   },
   {
@@ -28166,6 +27653,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-05",
+    "emittent": {
+      "name": "flatexDEGIRO Bank SE",
+      "sitz": "Frankfurt",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stowers Institute for Medical Research",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
+    }
+  },
+  {
     "veroeffentlichung": "2002-07-11",
     "emittent": {
       "name": "PEH Wertpapier AG",
@@ -28210,7 +27715,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-02",
+    "veroeffentlichung": "2026-08-17",
     "emittent": {
       "name": "Alzchem Group AG",
       "sitz": "Trostberg",
@@ -28221,8 +27726,8 @@
     },
     "stimmrechtsanteile": {
       "gesamt": 9.9,
-      "instrumente": 10.2,
-      "summe": 20.1
+      "instrumente": 15.16,
+      "summe": 25.06
     }
   },
   {
@@ -28239,6 +27744,70 @@
       "gesamt": 41.68,
       "instrumente": 0,
       "summe": 41.68
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-09",
+    "emittent": {
+      "name": "Ottobock SE & Co. KGaA",
+      "sitz": "Duderstadt",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stähelin, Dr. Thomas"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.47,
+      "instrumente": 0,
+      "summe": 3.47
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-09",
+    "emittent": {
+      "name": "Hapag-Lloyd Aktiengesellschaft",
+      "sitz": "Hamburg",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stähelin, Dr. Thomas"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 73.86,
+      "instrumente": 0,
+      "summe": 73.86
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-09",
+    "emittent": {
+      "name": "Deutsche Lufthansa Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stähelin, Dr. Thomas"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 20.00001,
+      "instrumente": 0,
+      "summe": 20.00001
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-08",
+    "emittent": {
+      "name": "Brenntag SE",
+      "sitz": "Essen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Stähelin, Dr. Thomas"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 20.1,
+      "instrumente": 0,
+      "summe": 20.1
     }
   },
   {
@@ -28269,6 +27838,24 @@
       "gesamt": 25.01,
       "instrumente": 0,
       "summe": 25.01
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-29",
+    "emittent": {
+      "name": "7C Solarparken AG",
+      "sitz": "Bayreuth",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "SUFINA",
+      "sitz": "Waregem",
+      "land": "Belgien"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.05,
+      "instrumente": 0,
+      "summe": 3.05
     }
   },
   {
@@ -28680,22 +28267,6 @@
     }
   },
   {
-    "veroeffentlichung": "2024-11-13",
-    "emittent": {
-      "name": "Manz AG",
-      "sitz": "Reutlingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Tan, Eng Kee"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 17.97,
-      "instrumente": 0,
-      "summe": 17.97
-    }
-  },
-  {
     "veroeffentlichung": "2026-03-16",
     "emittent": {
       "name": "Stabilus SE",
@@ -28796,6 +28367,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-25",
+    "emittent": {
+      "name": "KAP AG",
+      "sitz": "Fulda",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Tempus Capital GmbH",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 29,
+      "instrumente": 0,
+      "summe": 29
+    }
+  },
+  {
     "veroeffentlichung": "2024-04-25",
     "emittent": {
       "name": "WashTec AG",
@@ -28886,6 +28475,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-27",
+    "emittent": {
+      "name": "AMADEUS FIRE AG",
+      "sitz": "Frankfurt am Main",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Teslin Capital Management B.V.",
+      "sitz": "Maarsbergen",
+      "land": "Niederlande"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.04,
+      "instrumente": 0,
+      "summe": 3.04
+    }
+  },
+  {
     "veroeffentlichung": "2021-03-16",
     "emittent": {
       "name": "KWS SAAT SE & Co. KGaA",
@@ -28968,7 +28575,7 @@
     }
   },
   {
-    "veroeffentlichung": "2021-02-18",
+    "veroeffentlichung": "2026-09-11",
     "emittent": {
       "name": "MTU Aero Engines AG",
       "sitz": "München",
@@ -28980,9 +28587,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 9.96,
+      "gesamt": 4.98,
       "instrumente": 0,
-      "summe": 9.96
+      "summe": 4.98
     }
   },
   {
@@ -29001,24 +28608,6 @@
       "gesamt": 4.96,
       "instrumente": 0,
       "summe": 4.96
-    }
-  },
-  {
-    "veroeffentlichung": "2026-04-24",
-    "emittent": {
-      "name": "flatexDEGIRO SE",
-      "sitz": "Frankfurt",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Capital Group Companies, Inc.",
-      "sitz": "Los Angeles",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.01,
-      "instrumente": 0,
-      "summe": 3.01
     }
   },
   {
@@ -29042,7 +28631,7 @@
   {
     "veroeffentlichung": "2026-02-06",
     "emittent": {
-      "name": "Deutsche Post AG",
+      "name": "DHL AG",
       "sitz": "Bonn",
       "land": "Deutschland"
     },
@@ -29112,6 +28701,24 @@
     }
   },
   {
+    "veroeffentlichung": "2026-08-31",
+    "emittent": {
+      "name": "KAP AG",
+      "sitz": "Fulda",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Carlyle Group Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 45.47,
+      "instrumente": 29,
+      "summe": 45.47
+    }
+  },
+  {
     "veroeffentlichung": "2026-06-24",
     "emittent": {
       "name": "Deutsche Börse Aktiengesellschaft",
@@ -29166,7 +28773,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-09-07",
     "emittent": {
       "name": "thyssenkrupp AG",
       "sitz": "Essen",
@@ -29178,13 +28785,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.03,
-      "instrumente": 7.2,
-      "summe": 7.23
+      "gesamt": 0.76,
+      "instrumente": 6.57,
+      "summe": 7.33
     }
   },
   {
-    "veroeffentlichung": "2026-07-06",
+    "veroeffentlichung": "2026-08-12",
+    "emittent": {
+      "name": "TeamViewer SE",
+      "sitz": "Göppingen",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.97,
+      "instrumente": 4.08,
+      "summe": 5.05
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "Siltronic AG",
       "sitz": "München",
@@ -29196,31 +28821,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.19,
-      "instrumente": 8.29,
-      "summe": 8.48
+      "gesamt": 0.09,
+      "instrumente": 4.99,
+      "summe": 5.08
     }
   },
   {
-    "veroeffentlichung": "2026-06-22",
-    "emittent": {
-      "name": "Scout24 SE",
-      "sitz": "München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 2.9,
-      "instrumente": 3.81,
-      "summe": 6.71
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-08",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "PNE AG",
       "sitz": "Cuxhaven",
@@ -29232,13 +28839,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 1.48,
-      "instrumente": 5.04,
-      "summe": 6.51
+      "gesamt": 1.37,
+      "instrumente": 4.99,
+      "summe": 6.36
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-08-26",
+    "emittent": {
+      "name": "NORMA Group SE",
+      "sitz": "Maintal",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.2,
+      "instrumente": 6.99,
+      "summe": 7.2
+    }
+  },
+  {
+    "veroeffentlichung": "2026-08-24",
     "emittent": {
       "name": "Nagarro SE",
       "sitz": "München",
@@ -29250,31 +28875,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.05,
-      "instrumente": 5.92,
-      "summe": 5.98
+      "gesamt": 0.15,
+      "instrumente": 5.28,
+      "summe": 5.43
     }
   },
   {
-    "veroeffentlichung": "2026-06-25",
-    "emittent": {
-      "name": "LANXESS Aktiengesellschaft",
-      "sitz": "Köln",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.83,
-      "instrumente": 3.18,
-      "summe": 5.01
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "K+S Aktiengesellschaft",
       "sitz": "Kassel",
@@ -29286,49 +28893,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.11,
-      "instrumente": 6.82,
-      "summe": 6.93
+      "gesamt": 0.26,
+      "instrumente": 8.22,
+      "summe": 8.48
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
-    "emittent": {
-      "name": "Infineon Technologies AG",
-      "sitz": "Neubiberg",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.31,
-      "instrumente": 4.08,
-      "summe": 5.39
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-09",
-    "emittent": {
-      "name": "Hypoport SE",
-      "sitz": "Lübeck",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.11,
-      "instrumente": 4.96,
-      "summe": 5.07
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-29",
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "HUGO BOSS AG",
       "sitz": "Metzingen",
@@ -29340,49 +28911,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.13,
-      "instrumente": 13.77,
-      "summe": 13.9
+      "gesamt": 0.12,
+      "instrumente": 15.08,
+      "summe": 15.19
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
-    "emittent": {
-      "name": "HelloFresh SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.54,
-      "instrumente": 4.49,
-      "summe": 5.03
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-20",
-    "emittent": {
-      "name": "GFT Technologies SE",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.02,
-      "instrumente": 5.13,
-      "summe": 5.15
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "Gerresheimer AG",
       "sitz": "Düsseldorf",
@@ -29394,13 +28929,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 8.83,
-      "instrumente": 11.43,
-      "summe": 20.26
+      "gesamt": 8.82,
+      "instrumente": 8.7,
+      "summe": 17.53
     }
   },
   {
-    "veroeffentlichung": "2026-07-01",
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "Evotec SE",
       "sitz": "Hamburg",
@@ -29412,13 +28947,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.13,
-      "instrumente": 13.18,
-      "summe": 13.32
+      "gesamt": 0.05,
+      "instrumente": 13.51,
+      "summe": 13.56
     }
   },
   {
-    "veroeffentlichung": "2026-03-18",
+    "veroeffentlichung": "2026-08-12",
+    "emittent": {
+      "name": "DEUTZ Aktiengesellschaft",
+      "sitz": "Köln",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.65,
+      "instrumente": 5.04,
+      "summe": 5.69
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-08",
     "emittent": {
       "name": "Deutsche Pfandbriefbank AG",
       "sitz": "München",
@@ -29430,31 +28983,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.47,
-      "instrumente": 5.58,
-      "summe": 6.06
+      "gesamt": 0.16,
+      "instrumente": 5.23,
+      "summe": 5.39
     }
   },
   {
-    "veroeffentlichung": "2026-07-03",
-    "emittent": {
-      "name": "Delivery Hero SE",
-      "sitz": "Berlin",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.4,
-      "instrumente": 12.57,
-      "summe": 12.97
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-09-11",
     "emittent": {
       "name": "CECONOMY AG",
       "sitz": "Düsseldorf",
@@ -29466,13 +29001,31 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.08,
-      "instrumente": 5.83,
-      "summe": 5.9
+      "gesamt": 0.71,
+      "instrumente": 5.16,
+      "summe": 5.87
     }
   },
   {
-    "veroeffentlichung": "2026-07-14",
+    "veroeffentlichung": "2026-09-04",
+    "emittent": {
+      "name": "Carl Zeiss Meditec AG",
+      "sitz": "Jena",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "The Goldman Sachs Group, Inc.",
+      "sitz": "Wilmington",
+      "land": "Vereinigte Staaten von Amerika"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 0.63,
+      "instrumente": 4.76,
+      "summe": 5.39
+    }
+  },
+  {
+    "veroeffentlichung": "2026-09-10",
     "emittent": {
       "name": "AUTO1 Group SE",
       "sitz": "München",
@@ -29484,13 +29037,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.05,
-      "instrumente": 17.04,
-      "summe": 17.09
+      "gesamt": 2.97,
+      "instrumente": 13.37,
+      "summe": 16.33
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-09-14",
     "emittent": {
       "name": "Aurubis AG",
       "sitz": "Hamburg",
@@ -29502,13 +29055,13 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 0.42,
-      "instrumente": 16.57,
-      "summe": 16.98
+      "gesamt": 0.43,
+      "instrumente": 7.77,
+      "summe": 8.19
     }
   },
   {
-    "veroeffentlichung": "2026-07-21",
+    "veroeffentlichung": "2026-08-28",
     "emittent": {
       "name": "AIXTRON SE",
       "sitz": "Herzogenrath",
@@ -29520,27 +29073,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 2.93,
-      "instrumente": 5.51,
-      "summe": 8.45
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-20",
-    "emittent": {
-      "name": "ADTRAN Holdings, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "meldepflichtiger": {
-      "name": "The Goldman Sachs Group, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0.51,
-      "instrumente": 6.86,
-      "summe": 7.36
+      "gesamt": 3.39,
+      "instrumente": 6.55,
+      "summe": 9.94
     }
   },
   {
@@ -29812,6 +29347,38 @@
     }
   },
   {
+    "veroeffentlichung": "2026-07-31",
+    "emittent": {
+      "name": "SAP SE",
+      "sitz": "Walldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Tschira, Harald"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.22,
+      "instrumente": 0,
+      "summe": 4.22
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-21",
+    "emittent": {
+      "name": "SAP SE",
+      "sitz": "Walldorf",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "Tschira, Udo"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 4.19,
+      "instrumente": 0,
+      "summe": 4.19
+    }
+  },
+  {
     "veroeffentlichung": "2024-03-22",
     "emittent": {
       "name": "KPS AG",
@@ -29860,7 +29427,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-17",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "Delivery Hero SE",
       "sitz": "Berlin",
@@ -29872,9 +29439,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 24.99,
-      "instrumente": 28.67,
-      "summe": 53.65
+      "gesamt": 24.77,
+      "instrumente": 11.74,
+      "summe": 36.5
     }
   },
   {
@@ -29896,10 +29463,10 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-16",
+    "veroeffentlichung": "2026-07-31",
     "emittent": {
-      "name": "LEG Immobilien SE",
-      "sitz": "Düsseldorf",
+      "name": "LPKF Laser & Electronics SE",
+      "sitz": "Garbsen",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -29908,9 +29475,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.4,
-      "instrumente": 0.19,
-      "summe": 3.59
+      "gesamt": 3.24,
+      "instrumente": 0.14,
+      "summe": 3.39
     }
   },
   {
@@ -29932,24 +29499,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-03",
-    "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.18,
-      "instrumente": 0.21,
-      "summe": 3.39
-    }
-  },
-  {
     "veroeffentlichung": "2026-07-14",
     "emittent": {
       "name": "HUGO BOSS AG",
@@ -29965,6 +29514,24 @@
       "gesamt": 2.89,
       "instrumente": 5.64,
       "summe": 8.53
+    }
+  },
+  {
+    "veroeffentlichung": "2026-07-30",
+    "emittent": {
+      "name": "Delivery Hero SE",
+      "sitz": "Berlin",
+      "land": "Deutschland"
+    },
+    "meldepflichtiger": {
+      "name": "UBS Group AG",
+      "sitz": "Zürich",
+      "land": "Schweiz"
+    },
+    "stimmrechtsanteile": {
+      "gesamt": 3.08,
+      "instrumente": 1.49,
+      "summe": 4.57
     }
   },
   {
@@ -29986,10 +29553,10 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-09",
+    "veroeffentlichung": "2026-08-18",
     "emittent": {
-      "name": "AIXTRON SE",
-      "sitz": "Herzogenrath",
+      "name": "All for One Group SE",
+      "sitz": "Filderstadt",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -29998,27 +29565,9 @@
       "land": "Schweiz"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.03,
-      "instrumente": 0.97,
-      "summe": 4
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-11",
-    "emittent": {
-      "name": "ADTRAN Holdings, Inc.",
-      "sitz": "Wilmington",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "meldepflichtiger": {
-      "name": "UBS Group AG",
-      "sitz": "Zürich",
-      "land": "Schweiz"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 1.9,
-      "instrumente": 5.39,
-      "summe": 7.28
+      "gesamt": 3.02,
+      "instrumente": 0,
+      "summe": 3.02
     }
   },
   {
@@ -30092,10 +29641,10 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-10",
+    "veroeffentlichung": "2026-07-23",
     "emittent": {
-      "name": "SAF-HOLLAND SE",
-      "sitz": "Bessenbach",
+      "name": "SMA Solar Technology AG",
+      "sitz": "Niestetal",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -30104,9 +29653,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.15,
-      "instrumente": 0.33,
-      "summe": 3.49
+      "gesamt": 1.69,
+      "instrumente": 3.64,
+      "summe": 5.33
     }
   },
   {
@@ -30146,7 +29695,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-05-13",
+    "veroeffentlichung": "2026-07-29",
     "emittent": {
       "name": "Hypoport SE",
       "sitz": "Lübeck",
@@ -30158,13 +29707,13 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.95,
-      "instrumente": 1.75,
+      "gesamt": 6.69,
+      "instrumente": 0,
       "summe": 6.69
     }
   },
   {
-    "veroeffentlichung": "2026-06-22",
+    "veroeffentlichung": "2026-07-28",
     "emittent": {
       "name": "CANCOM SE",
       "sitz": "München",
@@ -30176,9 +29725,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.02,
-      "instrumente": 0.54,
-      "summe": 5.57
+      "gesamt": 4.65,
+      "instrumente": 0.22,
+      "summe": 4.87
     }
   },
   {
@@ -30236,25 +29785,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-02-12",
-    "emittent": {
-      "name": "SUSS MicroTec SE",
-      "sitz": "Garching b. München",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Universal-Investment-Gesellschaft mit beschränkter Haftung",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 4.99,
-      "instrumente": 0,
-      "summe": 4.99
-    }
-  },
-  {
-    "veroeffentlichung": "2026-07-09",
+    "veroeffentlichung": "2026-08-02",
     "emittent": {
       "name": "Singulus Technologies Aktiengesellschaft",
       "sitz": "Kahl am Main",
@@ -30266,9 +29797,9 @@
       "land": "Deutschland"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.84,
+      "gesamt": 5.17,
       "instrumente": 0,
-      "summe": 4.84
+      "summe": 5.17
     }
   },
   {
@@ -30323,24 +29854,6 @@
       "gesamt": 3.08,
       "instrumente": 0,
       "summe": 3.08
-    }
-  },
-  {
-    "veroeffentlichung": "2024-07-17",
-    "emittent": {
-      "name": "HUGO BOSS AG",
-      "sitz": "Metzingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Universal-Investment-Gesellschaft mit beschränkter Haftung",
-      "sitz": "Frankfurt am Main",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.04,
-      "summe": 3.06
     }
   },
   {
@@ -30532,7 +30045,7 @@
     }
   },
   {
-    "veroeffentlichung": "2023-01-27",
+    "veroeffentlichung": "2026-08-21",
     "emittent": {
       "name": "NORMA Group SE",
       "sitz": "Maintal",
@@ -30542,9 +30055,9 @@
       "name": "van Caldenborgh, Joseph"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.0034,
+      "gesamt": 4.9958,
       "instrumente": 0,
-      "summe": 5.0034
+      "summe": 4.9958
     }
   },
   {
@@ -30758,22 +30271,6 @@
     }
   },
   {
-    "veroeffentlichung": "2008-01-16",
-    "emittent": {
-      "name": "EUWAX Aktiengesellschaft",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Vereinigung Baden-Württembergische Wertpapierbörse e.V.",
-      "sitz": "Stuttgart",
-      "land": "Deutschland"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 83.85
-    }
-  },
-  {
     "veroeffentlichung": "2014-07-03",
     "emittent": {
       "name": "Bertrandt Aktiengesellschaft",
@@ -30896,7 +30393,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-20",
+    "veroeffentlichung": "2026-08-28",
     "emittent": {
       "name": "All for One Group SE",
       "sitz": "Filderstadt",
@@ -30908,9 +30405,9 @@
       "land": "Frankreich"
     },
     "stimmrechtsanteile": {
-      "gesamt": 5.63,
-      "instrumente": 54.66,
-      "summe": 60.3
+      "gesamt": 10.29,
+      "instrumente": 0,
+      "summe": 10.29
     }
   },
   {
@@ -31065,24 +30562,6 @@
       "gesamt": 5,
       "instrumente": 0,
       "summe": 5
-    }
-  },
-  {
-    "veroeffentlichung": "2025-06-20",
-    "emittent": {
-      "name": "Manz AG",
-      "sitz": "Reutlingen",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Volksrepublik China",
-      "sitz": "Beijing",
-      "land": "Volksrepublik China"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 14.86,
-      "instrumente": 0,
-      "summe": 14.86
     }
   },
   {
@@ -31272,8 +30751,8 @@
   {
     "veroeffentlichung": "2026-06-16",
     "emittent": {
-      "name": "creditshelf Aktiengesellschaft",
-      "sitz": "Frankfurt am Main",
+      "name": "Nexum Group AG",
+      "sitz": "München",
       "land": "Deutschland"
     },
     "meldepflichtiger": {
@@ -32226,7 +31705,7 @@
   {
     "veroeffentlichung": "2020-01-31",
     "emittent": {
-      "name": "iQ International AG in Liquidation",
+      "name": "iQ International AG",
       "sitz": "Zug",
       "land": "Schweiz"
     },
@@ -32240,7 +31719,7 @@
     }
   },
   {
-    "veroeffentlichung": "2017-08-08",
+    "veroeffentlichung": "2026-09-01",
     "emittent": {
       "name": "pferdewetten.de AG",
       "sitz": "Düsseldorf",
@@ -32250,13 +31729,13 @@
       "name": "Weiss, Sebastian"
     },
     "stimmrechtsanteile": {
-      "gesamt": 7.02,
-      "instrumente": 0,
-      "summe": 7.02
+      "gesamt": 4.47,
+      "instrumente": 0.1,
+      "summe": 4.57
     }
   },
   {
-    "veroeffentlichung": "2025-12-01",
+    "veroeffentlichung": "2026-09-09",
     "emittent": {
       "name": "Vossloh Aktiengesellschaft",
       "sitz": "Werdohl",
@@ -32268,9 +31747,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 3.02,
-      "instrumente": 0.01,
-      "summe": 3.03
+      "gesamt": 4.64,
+      "instrumente": 0.02,
+      "summe": 4.66
     }
   },
   {
@@ -32310,7 +31789,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-07-08",
+    "veroeffentlichung": "2026-09-04",
     "emittent": {
       "name": "RENK Group AG",
       "sitz": "Augsburg",
@@ -32322,9 +31801,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.87,
+      "gesamt": 5.00322,
       "instrumente": 0.02,
-      "summe": 4.89
+      "summe": 5.02
     }
   },
   {
@@ -32364,7 +31843,7 @@
     }
   },
   {
-    "veroeffentlichung": "2026-06-29",
+    "veroeffentlichung": "2026-08-27",
     "emittent": {
       "name": "Bilfinger SE",
       "sitz": "Mannheim",
@@ -32376,9 +31855,9 @@
       "land": "Vereinigte Staaten von Amerika"
     },
     "stimmrechtsanteile": {
-      "gesamt": 4.5,
+      "gesamt": 4.66,
       "instrumente": 0.02,
-      "summe": 4.52
+      "summe": 4.68
     }
   },
   {
@@ -32710,24 +32189,6 @@
     }
   },
   {
-    "veroeffentlichung": "2026-03-30",
-    "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "WK MS Holdings I Ltd.",
-      "sitz": "George Town",
-      "land": "Cayman Inseln (Kaimaninseln)"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 0,
-      "instrumente": 5.98,
-      "summe": 5.98
-    }
-  },
-  {
     "veroeffentlichung": "2007-07-18",
     "emittent": {
       "name": "MATERNUS-Kliniken-Aktiengesellschaft",
@@ -32839,24 +32300,6 @@
       "gesamt": 3.79,
       "instrumente": 0,
       "summe": 3.79
-    }
-  },
-  {
-    "veroeffentlichung": "2026-06-08",
-    "emittent": {
-      "name": "Klöckner & Co SE",
-      "sitz": "Düsseldorf",
-      "land": "Deutschland"
-    },
-    "meldepflichtiger": {
-      "name": "Worthington Steel, Inc.",
-      "sitz": "Columbus",
-      "land": "Vereinigte Staaten von Amerika"
-    },
-    "stimmrechtsanteile": {
-      "gesamt": 60.86,
-      "instrumente": 1,
-      "summe": 61.87
     }
   },
   {
